@@ -1,8 +1,13 @@
 NAME: NAGAPRIYA S
+
 Company: CODTECH IT SOLUTIONS
+
 ID:CT08DS5440
+
 Domain: UI/UX DESIGN
+
 Duration:JULY to AUGUST 20th 2024
+
 Mentor:
 
 ## Overview of the Project
