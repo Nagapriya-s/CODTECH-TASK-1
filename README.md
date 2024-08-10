@@ -11,7 +11,8 @@ Duration:JULY to AUGUST 20th 2024
 Mentor:MUZAMMIL AHMED
 
 ## Overview of the Project
-https://github.com/Nagapriya-s/CODTECH-TASK-1/blob/2d229932f42009f0371278838f4ddec3d50a2ed4/Screenshot%20(3).png
+![Desktop - 1 (1)](https://github.com/user-attachments/assets/8d41e366-c560-4e29-9b86-5ab35fa24cc9)
+
 
 
 ##Project 1: Personal Portfolio (Figma)
