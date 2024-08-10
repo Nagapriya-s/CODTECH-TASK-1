@@ -8,9 +8,11 @@ Domain: UI/UX DESIGN
 
 Duration:JULY to AUGUST 20th 2024
 
-Mentor:
+Mentor:MUZAMMIL AHMED
 
 ## Overview of the Project
+https://github.com/Nagapriya-s/CODTECH-TASK-1/blob/2d229932f42009f0371278838f4ddec3d50a2ed4/Screenshot%20(3).png
+
 
 ##Project 1: Personal Portfolio (Figma)
 ## Objective:
